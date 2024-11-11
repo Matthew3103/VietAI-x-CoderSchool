@@ -1,4 +1,4 @@
-Rank,City,Population,Area KM2,Area   M2,Density KM2,Density  M2,Country,Year
+Rank,City,Population,Area KM2,Area M2,Density KM2,Density  M2,Country,Year
 1.,Manila,"1,846,513",43,17,"43,062","111,532", Filipinler *,2020  [1] 2018 [2]
 2.,Mandaluyong,"425,758",11,4,"38,495","99,703", Filipinler *,2020  [1] [3]
 3.,pateros,"65,227",2,1,"37,061","95,988", Filipinler *,2020  [1] 2013 [3]
@@ -7,7 +7,7 @@ Rank,City,Population,Area KM2,Area   M2,Density KM2,Density  M2,Country,Year
 6.,Katmandu,"1,442,000",49,19,"29,161","75,526", Nepal *,2020 [6]
 7.,Dakka,"8,906,136",306,118,"29,069","75,289", Bangladeş *,-
 8.,Makati,"629,616",22,8,"28,975","75,044", Filipinler *,2020  [1] [3]
-9.,Manhattan,"1,628,701",59,23,"27,544","71,340", Amerika Birleşik Devletleri,2020
+9.,Manhattan,"1,628,701",59,23,"27,544","71,340", Amerika Birleşik Devletleri *,2020
 10.,Port-au-Prince,"987,310",36,14,"27,395","70,953", Hatay *,2015 [7]
 11.,Levallois-Perret,"64,379",2,1,"26,713","69,187", Fransa *,2020 [8]
 12.,Vincennes,"49,891",2,1,"26,121","67,653", Fransa *,2020 [9]
@@ -61,7 +61,7 @@ Rank,City,Population,Area KM2,Area   M2,Density KM2,Density  M2,Country,Year
 60.,Çittagong,"2,582,401",155,60,"16,661","43,151", Bangladeş *,2018 [48]
 61.,Sint-Jans-Molenbeek,"97,462",6,2,"16,547","42,857", Belçika *,-
 62.,Seul,"9,962,393",605,234,"16,461","42,634", Güney Kore *,2019 [49] 2013 [50]
-63.,Kore mahallesi,"124,281",7-May,2-Sep,"16,452","42,610", Amerika Birleşik Devletleri,2020
+63.,Kore mahallesi,"124,281",7,2,"16,452","42,610", Amerika Birleşik Devletleri *,2020
 64.,Charenton-le-Pont,"30,374",2,1,"16,418","42,524", Fransa *,2020 [51]
 65.,La Garenne-Colombes,"29,169",2,1,"16,387","42,443", Fransa *,2020 [52]
 66.,Schaerbeek,"133,309",8,3,"16,377","42,417", Belçika *,-
