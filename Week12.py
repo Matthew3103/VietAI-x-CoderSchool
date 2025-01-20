@@ -6,14 +6,15 @@ torch.manual_seed(2023)
 def activation_func(x):
     #TODO Implement one of these following activation function: sigmoid, tanh, ReLU, leaky ReLU
     epsilon = 0.01   # Only use this variable if you choose Leaky ReLU
-    result = None
+
+    e=2.718281828459045
+    result = 1/(1-e**(-x))
     return result
 
 def softmax(x):
     # TODO Implement softmax function here
     result = None
     return result
-
 
 # Define the size of each layer in the network
 num_input = 784  # Number of node in input layer (28x28)
@@ -41,5 +42,9 @@ B4 = torch.randn((1, num_classes))
 
 #TODO Calculate forward pass of the network here. Result should have the shape of [1,10]
 # Dont forget to check if sum of result = 1.0
-result = None
+
+x=(input_data*W1 + B1) + (input_data*W2 + B2) + (input_data*W3 + B3) + (input_data*W4 + B4)
+
+result = activation_func(x)
+
 print(result)
